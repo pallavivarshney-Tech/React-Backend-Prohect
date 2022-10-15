@@ -313,7 +313,6 @@ res.send(
         Category:"Latest",
         Date:" 26 April 2019 (India)",
         
-    
     },
     {
         id:37,
@@ -327,4 +326,4 @@ res.send(
     
 )
 }
-module.exports.apicontroller=Data
+module.exports.apicontroller=Data;
